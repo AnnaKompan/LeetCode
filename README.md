@@ -1,4 +1,5 @@
 # LeetCode
+
 ## Array / String
 
 - Merge Strings Alternately (1768)
@@ -6,7 +7,6 @@
 
 - Greatest Common Divisor of Strings (1071)
   Easy ✅
-  
 - Running Sum of 1d Array (1480)
   Easy ✅
 
@@ -22,6 +22,9 @@
   Easy ✅
 
 - Sort Colors (75)
+  Easy ✅
+
+- Sort an Array (912) - 2 solutions: bubble solution (out_limit) ->
   Easy ✅
 
 ## Binary Search
