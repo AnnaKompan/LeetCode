@@ -48,3 +48,6 @@
 
 - 563. Binary Tree Tilt
        Easy
+
+- 1302. Deepest Leaves Sum
+        Easy ✅
