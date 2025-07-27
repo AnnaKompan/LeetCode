@@ -2,44 +2,49 @@
 
 ## Array / String
 
-- Merge Strings Alternately (1768)
-  Easy ✅
+- 1768. Merge Strings Alternately
+        Easy ✅
 
-- Greatest Common Divisor of Strings (1071)
-  Easy ✅
-- Running Sum of 1d Array (1480)
-  Easy ✅
+- 1071. Greatest Common Divisor of Strings
+        Easy ✅
+- 1480. Running Sum of 1d Array
+        Easy ✅
 
-- Richest Customer Wealth (1672)
-  Easy ✅
+- 1672. Richest Customer Wealth
+        Easy ✅
 
-- Minimum Operations to Make the Array Increasing (1827)
-  Easy ✅
+- 1827. Minimum Operations to Make the Array Increasing
+        Easy ✅
 
 ## Sorting Algorithms
 
-- Remove Duplicates from Sorted Array (27)
-  Easy ✅
+- 27. Remove Duplicates from Sorted Array
+      Easy ✅
 
-- Sort Colors (75)
-  Easy ✅
+- 75. Sort Colors
+      Easy ✅
 
-- Sort an Array (912) - 2 solutions: bubble solution (out_limit) ->
-  Easy ✅
+- 912. Sort an Array - 2 solutions: bubble solution (out_limit) ->
+       Easy ✅
 
 ## Binary Search
 
-- Find number (704)
-  Easy ✅
+- 704. Find number
+       Easy ✅
 
-- Search insert position (35)
-  Easy ✅
+- 35. Search insert position
+      Easy ✅
 
-- Find minimum in rotated sorted array (153)
-  Medium ✅
+- 153. Find minimum in rotated sorted array
+       Medium ✅
 
-- Single element in a sorted array (540)
-  Medium ✅
+- 540. Single element in a sorted array
+       Medium ✅
 
-- Count Negative Numbers in a Sorted Matrix (1351)
-  Easy ✅
+- 1351. Count Negative Numbers in a Sorted Matrix
+        Easy ✅
+
+## Trees
+
+- 563. Binary Tree Tilt
+       Easy
