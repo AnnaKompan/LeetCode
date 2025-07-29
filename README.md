@@ -59,3 +59,8 @@
 
 - 70. Climbing Stairs
       Easy ✅
+
+## Others
+
+- 172. Factorial Trailing Zeroes
+       Easy ✅
