@@ -52,6 +52,9 @@
 - 1302. Deepest Leaves Sum
         Easy ✅
 
+- 226. Invert Binary Tree
+       Easy ✅
+
 ## Dynamic Programming (DP)
 
 - 509. Fibonacci Number
