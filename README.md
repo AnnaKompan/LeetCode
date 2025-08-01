@@ -55,6 +55,9 @@
 - 226. Invert Binary Tree
        Easy ✅
 
+- 104. Maximum Depth of Binary Tree
+       Easy ✅
+
 ## Dynamic Programming (DP)
 
 - 509. Fibonacci Number
