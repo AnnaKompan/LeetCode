@@ -61,6 +61,9 @@
 - 23. Merge k Sorted Lists
       Hard 🛑
 
+79. Word Search
+    Hard 🛑
+
 ## Dynamic Programming (DP)
 
 - 509. Fibonacci Number
