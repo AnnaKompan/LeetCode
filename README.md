@@ -36,10 +36,10 @@
       Easy ✅
 
 - 153. Find minimum in rotated sorted array
-       Medium ✅
+       Medium 🟡
 
 - 540. Single element in a sorted array
-       Medium ✅
+       Medium 🟡
 
 - 1351. Count Negative Numbers in a Sorted Matrix
         Easy ✅
@@ -57,6 +57,9 @@
 
 - 104. Maximum Depth of Binary Tree
        Easy ✅
+
+- 23. Merge k Sorted Lists
+      Hard 🛑
 
 ## Dynamic Programming (DP)
 
