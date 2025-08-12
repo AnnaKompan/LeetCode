@@ -72,6 +72,11 @@
 - 70. Climbing Stairs
       Easy ✅
 
+## Graph
+
+- 997. Find the Town Judge
+       Easy ✅
+
 ## Others
 
 - 172. Factorial Trailing Zeroes
