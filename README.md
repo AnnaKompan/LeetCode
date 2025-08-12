@@ -77,6 +77,9 @@
 - 997. Find the Town Judge
        Easy ✅
 
+- 207. Course Schedule
+       Medium 🟡
+
 ## Others
 
 - 172. Factorial Trailing Zeroes
