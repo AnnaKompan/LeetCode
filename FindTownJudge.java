@@ -4,8 +4,11 @@ import java.util.Arrays;
 public class FindTownJudge {
     public static void main(String[] args) {
         int n1 = 2;
-        int[][] trust1 = {{1,2}};
+        int[][] trust1 = { { 1, 2 } };
+        int n2 = 3;
+        int[][] trust2 = {{1,3},{2,3}};
         System.out.println("The judge in" + Arrays.deepToString(trust1) + " is: " + FindJudge(n1,trust1));
+        System.out.println("The judge in" + Arrays.deepToString(trust2) + " is: " + FindJudge(n2,trust2));
     }
 
     public static int FindJudge(int n, int[][]trust) {
