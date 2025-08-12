@@ -8,8 +8,8 @@ public class CourseSchedule {
         int[][] prerequisites1 = { { 1, 0 } };
         int numCourses2 = 2;
         int[][] prerequisites2 = { { 1, 0 }, { 0, 1 } };
-        System.out.println("For first prerequisites: " + Arrays.deepToString(prerequisites1) + " can finish all courses is " + canFinish(numCourses1, prerequisites1));
-        System.out.println("For first prerequisites: " + Arrays.deepToString(prerequisites1) + " can finish all courses is " + canFinish(numCourses2, prerequisites2));
+        System.out.println("For first prerequisites: " + Arrays.deepToString(prerequisites1) + " can finish all courses is - " + canFinish(numCourses1, prerequisites1));
+        System.out.println("For second prerequisites: " + Arrays.deepToString(prerequisites2) + " can finish all courses is - " + canFinish(numCourses2, prerequisites2));
     }
 
     public static boolean canFinish(int numCourses, int[][] prerequisites) {
