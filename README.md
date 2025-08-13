@@ -44,6 +44,10 @@
 708. [Count Negative Numbers in a Sorted Matrix](./count_negative_num_in_matrix.js)
      Easy ✅
 
+## Recursion
+
+326. [Power of Three](./power_of_three.py)
+
 ## Trees
 
 563. [Binary Tree Tilt](./binary_tree_tilt.py)
