@@ -66,8 +66,8 @@
 
 ## Dynamic Programming (DP)
 
-- 509. ![Fibonacci Number](./Fibonacci.java)
-       Easy ✅
+509. ![Fibonacci Number](./Fibonacci.java)
+     Easy ✅
 
 - 70. Climbing Stairs
       Easy ✅
