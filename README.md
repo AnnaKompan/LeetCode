@@ -2,85 +2,85 @@
 
 ## Array / String
 
-- 1768. Merge Strings Alternately
-        Easy ✅
+1768. [Merge Strings Alternately](./1768_merge_strings.py)
+      Easy ✅
 
-- 1071. Greatest Common Divisor of Strings
-        Easy ✅
-- 1480. Running Sum of 1d Array
-        Easy ✅
+1769. [Greatest Common Divisor of Strings](./1071_greatest_common_divisor_of_strings.py)
+      Easy ✅
+1770. [Running Sum of 1d Array](./RunningSumArr.java)
+      Easy ✅
 
-- 1672. Richest Customer Wealth
-        Easy ✅
+1771. [Richest Customer Wealth](./richestCustomerWealth.js)
+      Easy ✅
 
-- 1827. Minimum Operations to Make the Array Increasing
-        Easy ✅
+1772. [Minimum Operations to Make the Array Increasing](./MinOperationMakeArrIncreasing.js)
+      Easy ✅
 
 ## Sorting Algorithms
 
-- 27. Remove Duplicates from Sorted Array
-      Easy ✅
+27. [Remove Duplicates from Sorted Array](./RemoveDuplicates.java)
+    Easy ✅
 
-- 75. Sort Colors
-      Easy ✅
+28. [Sort Colors](./SortColors.java)
+    Easy ✅
 
-- 912. Sort an Array - 2 solutions: bubble solution (out_limit) ->
-       Easy ✅
+29. [Sort an Array](./SortArr.java)
+    Easy ✅
 
 ## Binary Search
 
-- 704. Find number
-       Easy ✅
+704. [Find number](./704_binary_search.py)
+     Easy ✅
 
-- 35. Search insert position
-      Easy ✅
+705. [Search insert position](./SearchInsertPosition.java)
+     Easy ✅
 
-- 153. Find minimum in rotated sorted array
-       Medium 🟡
+706. [Find minimum in rotated sorted array](./FindMinimum.java)
+     Medium 🟡
 
-- 540. Single element in a sorted array
-       Medium 🟡
+707. [Single element in a sorted array](./SingleElementInSortedArray.java)
+     Medium 🟡
 
-- 1351. Count Negative Numbers in a Sorted Matrix
-        Easy ✅
+708. [Count Negative Numbers in a Sorted Matrix](./count_negative_num_in_matrix.js)
+     Easy ✅
 
 ## Trees
 
-- 563. Binary Tree Tilt
-       Easy
+563. [Binary Tree Tilt](./binary_tree_tilt.py)
+     Easy
 
-- 1302. Deepest Leaves Sum
-        Easy ✅
+564. [Deepest Leaves Sum](./DeepestLeavesSum.java)
+     Easy ✅
 
-- 226. Invert Binary Tree
-       Easy ✅
+565. [Invert Binary Tree](./invertBinaryTree.js)
+     Easy ✅
 
-- 104. Maximum Depth of Binary Tree
-       Easy ✅
+566. [Maximum Depth of Binary Tree](./maxDepthBinTree.js)
+     Easy ✅
 
-- 23. Merge k Sorted Lists
-      Hard 🛑
+567. [Merge k Sorted Lists](./MergeKsortedLists.java)
+     Hard 🛑
 
-79. Word Search
-    Hard 🛑
+568. [Word Search](./word_search.py)
+     Hard 🛑
 
 ## Dynamic Programming (DP)
 
 509. [Fibonacci Number](./Fibonacci.java)
      Easy ✅
 
-- 70. Climbing Stairs
-      Easy ✅
+510. [Climbing Stairs](./ClimbingStairs.java)
+     Easy ✅
 
 ## Graph
 
-- 997. Find the Town Judge
-       Easy ✅
+997. [Find the Town Judge](./FindTownJudge.java)
+     Easy ✅
 
-- 207. Course Schedule
-       Medium 🟡
+998. [Course Schedule](./CourseSchedule.java)
+     Medium 🟡
 
 ## Others
 
-- 172. Factorial Trailing Zeroes
-       Easy ✅
+172. [Factorial Trailing Zeroes](./factorial_trailing_zeroes.py)
+     Easy ✅
