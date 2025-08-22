@@ -1,9 +1,9 @@
-nums1 = [1, 2, 2, 1];
-k1 = 1;
-nums2 = [1, 3];
-k2 = 3;
-nums3 = [3, 2, 1, 5, 4];
-k3 = 2;
+const nums1 = [1, 2, 2, 1];
+const k1 = 1;
+const nums2 = [1, 3];
+const k2 = 3;
+const nums3 = [3, 2, 1, 5, 4];
+const k3 = 2;
 
 function countKDifference(nums, k) {
   const index = {};

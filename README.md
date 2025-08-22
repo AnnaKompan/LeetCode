@@ -96,3 +96,6 @@
 
 2. [Count Number of Pairs With Absolute Difference K](./countNumber.js)
    Easy ✅
+
+3. [Employee Importance](./employeeImportance.js)
+   Medium 🟡
