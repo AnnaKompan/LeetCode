@@ -88,3 +88,7 @@
 
 172. [Factorial Trailing Zeroes](./factorial_trailing_zeroes.py)
      Easy ✅
+
+## HashTable
+
+1. [Two Sum](./two_sum.py)
