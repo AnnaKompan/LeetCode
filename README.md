@@ -92,3 +92,5 @@
 ## HashTable
 
 1. [Two Sum](./two_sum.py)
+
+2. [Count Number of Pairs With Absolute Difference K](./countNumber.js)
