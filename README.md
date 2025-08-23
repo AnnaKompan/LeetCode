@@ -102,3 +102,6 @@
 
 4. [Minimum Window Substring](./MinWindowSliding.java)
    Hard 🛑
+
+5. [Group Anagrams](./groupAnagrams.js)
+   Medium 🟡
