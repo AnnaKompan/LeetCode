@@ -106,3 +106,14 @@ Hard 🛑
 
 [49. Group Anagrams](./groupAnagrams.js)
 Medium 🟡
+
+## Greedy Algorithms
+
+[2144. Minimum Cost of Buying Candies With Discount](./minCostCandles.js)
+Easy ✅
+
+[921. Minimum Add to Make Parentheses Valid](./MinAddParantheses.java)
+Medium 🟡
+
+[1877. Minimize Maximum Pair Sum in Array](./min_max_pair_sum.py)
+Medium 🟡
