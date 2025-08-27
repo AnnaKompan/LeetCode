@@ -10,7 +10,6 @@ public class SingleElementInSortedArray {
     public static int singleNonDuplicate(int[] nums) {
         int left = 0;
         int right = nums.length - 1;
-        String message = "not in the array";
 
         while (left < right) {
             int mid = left + (right - left) / 2;
